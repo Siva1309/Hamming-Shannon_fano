@@ -51,7 +51,7 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 ### Calculation
-
+![Screenshot 2025-03-29 181300](https://github.com/user-attachments/assets/c387b209-090e-4c07-9856-20da40d2ef0c)
 
 ### Results.
     The given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25 Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484
